@@ -1,8 +1,3 @@
-
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fcoder&psig=AOvVaw3_Szp4NCTFQ5RSUFPsZ8Gn&ust=1707277832283000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCXmdjnlYQDFQAAAAAdAAAAABAF" height="50" width="200"/>
-
-
-
 <h1 align="center">Hi 👋, I'm Gihan Madhubhashana</h1>
 <h3 align="center">I am a student in SLIIT & A passionate frontend developer from Sri lanka</h3>
 
