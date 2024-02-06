@@ -5,6 +5,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gihan12345&label=Profile%20views&color=0e75b6&style=flat" alt="gihan12345" /> </p>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 
 - 🌱 I’m currently learning **Java**
