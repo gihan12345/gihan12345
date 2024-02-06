@@ -1,4 +1,4 @@
-<img align = "center" src = "/add/User interface research.gif" height=100px width = 100px>
+<div> <img align = "center" src = "/add/User interface research.gif" height=100px width = 100px> </div>
 
 <h1 align="center">Hi 👋, I'm Gihan Madhubhashana</h1>
 <h3 align="center">I am a student in SLIIT & A passionate frontend developer from Sri lanka</h3>
