@@ -46,7 +46,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://web.facebook.com/profile.php?id=100081426944675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gihanmadhubhshana@gmail.com" height="80" width="90" /></a>
+<a href="https://web.facebook.com/profile.php?id=100081426944675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gihanmadhubhshana@gmail.com" height="50" width="60" /></a>
 <a href="https://instagram.com/madhubhashanagihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhubhashanagihan" height="30" width="40" /></a>
 </p>
 
