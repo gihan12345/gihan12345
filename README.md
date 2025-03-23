@@ -9,9 +9,9 @@
 
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C,C++**
+- 💬 Ask me about **React,JS**
 
 - 📫 How to reach me **gihanmadhubhashana@gmail.com**
 
