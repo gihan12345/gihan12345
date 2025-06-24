@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React , JavaScript**
 
 - 📫 How to reach me **gihanmadhubhashana@gmail.com**
 <br>
