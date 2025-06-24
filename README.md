@@ -11,11 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React,JS**
-
 - 📫 How to reach me **gihanmadhubhashana@gmail.com**
-
-- ⚡ Fun fact **Gihan**
 <br>
 <br>
 <hr>
