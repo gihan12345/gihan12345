@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gihan Madhubhashana</h1>
+<h1 align="center">Hi 👋, I'm Gihan Madhubhashana Rathnayaka</h1>
 <h3 align="center">A passionate web developer student at SLIIT in Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gihan12345&label=Profile%20views&color=0e75b6&style=flat" alt="gihan12345" /> </p>
